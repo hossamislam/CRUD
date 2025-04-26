@@ -1,0 +1,10 @@
+# Frontend (e.g., React/Vue)
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+
+# Backend (e.g., Python/Django/Flask)
+backend/__pycache__/
+backend/.env
+backend/venv/
+*.pyc
